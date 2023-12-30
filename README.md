@@ -31,7 +31,7 @@ Feel free to connect, share learning resources, or collaborate on projects. We'r
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=aymane-dihaj&show_icons=true&count_private=true)
 
 ## Let's Code, Learn, and Grow!
 
