@@ -55,6 +55,6 @@ Feel free to connect, share learning resources, or collaborate on projects. We'r
 
 I'm always open to learning from others and sharing knowledge. If you have tips, resources, or just want to chat about frontend development, don't hesitate to reach out.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aymane-dihaj.aymane-dihaj)
 
 **Happy coding! 🚀**
