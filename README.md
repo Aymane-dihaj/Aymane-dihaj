@@ -1,12 +1,12 @@
-# Hello, World! 👋 I'm [Your Name]
-
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+## Hi There, Welcome to my Github profile!
 
 Enthusiastic Frontend Developer in the Making | Lifelong Learner
 
 ## About Me
 
-Hey there! I'm on a mission to become a skilled frontend developer and create awesome user experiences. My journey involves a lot of learning, experimenting, and a dash of coffee. Let's code and learn together!
+Hey there! I'm on a mission to become a skilled frontend developer and create awesome user experiences. My journey involves a lot of learning, experimenting, and a dash of coffee.
 
 ## Learning Focus
 
@@ -50,7 +50,7 @@ Feel free to connect, share learning resources, or collaborate on projects. We'r
 
 ## Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![] (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
 ## Let's Code, Learn, and Grow!
 
