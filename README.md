@@ -20,37 +20,18 @@ Hey there! I'm on a mission to become a skilled frontend developer and create aw
 - **Learning:** React, Vue.js
 - **Tools:** Git, VS Code, Browser DevTools
 
-## Projects
-
-### Project 1: [Learning Tracker](link-to-project)
-
-![Project 1](url-to-project-image)
-
-Tracking my learning progress with this simple web app. 
-
-### Project 2: [Portfolio](link-to-project)
-
-![Project 2](url-to-project-image)
-
-Building my portfolio to showcase my journey and projects.
-
 ## Goals
 
 - 🌱 Master React and its ecosystem
 - 💡 Contribute to open source projects
 - 📝 Share my knowledge through blogs/tutorials
 
-## Let's Connect and Learn Together
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Dev.to](https://dev.to/yourusername)
 
 Feel free to connect, share learning resources, or collaborate on projects. We're all in this coding adventure together!
 
 ## Stats
 
-![] (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
 ## Let's Code, Learn, and Grow!
 
