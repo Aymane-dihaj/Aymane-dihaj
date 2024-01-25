@@ -8,12 +8,6 @@ Enthusiastic Frontend Developer in the Making | Lifelong Learner
 
 Hey there! I'm on a mission to become a skilled frontend developer and create awesome user experiences. My journey involves a lot of learning, experimenting, and a dash of coffee.
 
-## Learning Focus
-
-- 🚀 Currently diving into the world of React
-- 🎨 Exploring the secrets of CSS and styling
-- 🔧 Building projects to apply and solidify my skills
-
 ## Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript
