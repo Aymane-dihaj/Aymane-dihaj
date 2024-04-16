@@ -2,11 +2,11 @@
 
 ## Hi There, Welcome to my Github profile!
 
-Enthusiastic Frontend Developer in the Making | Lifelong Learner
+Enthusiastic Frontend Developer in the Making
 
 ## About Me
 
-Hey there! I'm on a mission to become a skilled frontend developer and create awesome user experiences. My journey involves a lot of learning, experimenting, and a dash of coffee.
+Hey there! I'm on a mission to become a skilled FullStack developer and create awesome user experiences. My journey involves a lot of learning, experimenting, and a dash of coffee.
 
 ## Tech Stack
 
