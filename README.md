@@ -10,15 +10,10 @@ Hey there! I'm on a mission to become a skilled frontend developer and create aw
 
 ## Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript
-- **Learning:** React, Vue.js
+- **Languages:** C, C++, HTML, CSS, JavaScript
+- **Learning:** React, Vue.js, Tailwind
 - **Tools:** Git, VS Code, Browser DevTools
 
-## Goals
-
-- 🌱 Master React and its ecosystem
-- 💡 Contribute to open source projects
-- 📝 Share my knowledge through blogs/tutorials
 
 
 Feel free to connect, share learning resources, or collaborate on projects. We're all in this coding adventure together!
