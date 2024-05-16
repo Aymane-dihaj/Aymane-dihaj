@@ -2,16 +2,15 @@
 
 ## Hi There, Welcome to my Github profile!
 
-Enthusiastic Frontend Developer in the Making
+Creative Frontend developer
 
 ## About Me
 
-Hey there! I'm on a mission to become a skilled FullStack developer and create awesome user experiences. My journey involves a lot of learning, experimenting, and a dash of coffee.
+Hey there! I'm a Frontend developer. My journey involves a lot of learning, experimenting, and a dash of coffee.
 
 ## Tech Stack
 
-- **Languages:** C, C++, HTML, CSS, JavaScript
-- **Learning:** React, Vue.js, Tailwind
+  **C, C++, HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Redux, firebase, docker**
 - **Tools:** Git, VS Code, Browser DevTools
 
 
