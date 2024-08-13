@@ -2,15 +2,15 @@
 
 ## Hi There, Welcome to my Github profile!
 
-Creative Frontend developer
+Creative FullStack developer
 
 ## About Me
 
-Hey there! I'm a Frontend developer. My journey involves a lot of learning, experimenting, and a dash of coffee.
+Hey there! I'm a FullStack developer. My journey involves a lot of learning, experimenting, and a dash of coffee.
 
 ## Tech Stack
 
-  **C, C++, HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Redux, firebase, docker**
+  **C, C++, HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Redux, firebase, docker, NextJS**
 - **Tools:** Git, VS Code, Browser DevTools
 
 
