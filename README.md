@@ -4,12 +4,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aymane-dihaj&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**Fullstack Developer · Frontend-leaning**
+**Software engineer**
 
 I don't get attached to frameworks or trends. I get attached to outcomes.
 
 - 🛰️ Building geospatial dashboards & AI-integrated web apps
-- 📱 Currently learning **Mobile Development**
 - 🌐 Portfolio: [nozel.me](https://nozel.me)
 
 <!-- --- -->
